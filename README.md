@@ -3,7 +3,7 @@
 
 Repo: https://github.com/ucsb-cs156-s21/jpa03-kenny-wang6
 
-On Heroku: https://jpa03-kenny-wang6.herokuapp.com/
+On Heroku: https://jpa03-kennethwang.herokuapp.com/
 
 On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-kenny-wang6
 
